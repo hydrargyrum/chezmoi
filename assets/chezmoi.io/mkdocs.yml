@@ -24,6 +24,7 @@ nav:
   - index.md
   - Install: install.md
   - Quick start: quick-start.md
+  - Command overview: command-overview.md
   - What does chezmoi do?: what-does-chezmoi-do.md
   - Why use chezmoi?: why-use-chezmoi.md
   - Comparison table: comparison-table.md
